@@ -1,0 +1,1 @@
+Landing page for any aspiring sith acolytes to join our cause and spread the dark side across the galaxy. The technology used for this webpage are html and css(flexbox). This project has helped me a lot with my css skills and that will spread to my other future projects.
